@@ -1,4 +1,4 @@
-// Solution of Hackerrank problem Counting Valleys
+// Solution of Hackerrank problem Strange Counter
 //  Solution in C language
 
 long strangeCounter(long t) {
