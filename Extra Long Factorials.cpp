@@ -1,4 +1,5 @@
-// Solution of Hackerrank problem Extra Long Factorials
+// Solution of Hackerrank problem
+// Extra Long Factorials
 // Solution of in CPP
 
 // Appraoch - 1 
